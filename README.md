@@ -9,8 +9,14 @@ Hello Everyone! Welcome to my Personal GitHub Account. This repository will hold
 # About Me
 
 ## My Interests
-* My Hobbies:
+* Hobbies:
 	* Playing tennis on my school's team, in tournaments, and recreationally
-	* Playing the piano in both recitals and practicing it at home
+	* Practicing the piano at home and also performing at recitals
+	* Playing video games in my free time and with my friends
+* Acadmeic Interests:
+	* Obtaining my Associate in Science degree at Wake Tech
+	* Pursuing a career in biomedicine
+	* I plan on doing my Bachelor's Degree at UNC Chapel Hill
 
+	
 ## Websites I Recommend
