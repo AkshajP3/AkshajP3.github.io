@@ -9,5 +9,8 @@ Hello Everyone! Welcome to my Personal GitHub Account. This repository will hold
 # About Me
 
 ## My Interests
+* My Hobbies:
+	* Playing tennis on my school's team, in tournaments, and recreationally
+	* Playing the piano in both recitals and practicing it at home
 
 ## Websites I Recommend
