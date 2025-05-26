@@ -22,3 +22,7 @@ Hello Everyone! Welcome to my Personal GitHub Account. This repository will hold
 
 	
 ## Websites I Recommend
+* [Netflix](https://www.netflix.com/)
+	* I like Netflix because the wide variety of TV shows and movies that I can access through it
+* [ESPN](https://www.espn.com/)
+	* I love watching sports on ESPN because they cover events from all of my favorite sports
